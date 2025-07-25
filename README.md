@@ -20,6 +20,9 @@ https://doi.org/10.5281/zenodo.16149157
 ## DOI associé v.2 :
 https://doi.org/10.5281/zenodo.16332515
 
+## DOI associé v.3 :
+https://doi.org/10.5281/zenodo.16420822
+
 ## Licence
 Ce dépôt est publié sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0)
 
@@ -47,6 +50,9 @@ https://doi.org/10.5281/zenodo.16149157
 
 ## DOI associé v.2 :
 https://doi.org/10.5281/zenodo.16332515
+
+## DOI associé v.3 :
+https://doi.org/10.5281/zenodo.16420822
 
 ## License
 This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0)
