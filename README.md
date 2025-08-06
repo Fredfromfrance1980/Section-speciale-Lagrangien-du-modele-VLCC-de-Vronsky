@@ -11,6 +11,8 @@ Il intègre pour la première fois un **potentiel temporel intriqué**, modélis
 
 - la verson 3 de la section spéciale dédiée au Lagrangien du modèle cosmologique spéculatif VLCC, qui propose une refondation dynamique du champ temporel à travers l’introduction du champ scalaire et trois prédictions principales issues de ce formalisme: (1) la rotation des galaxies sans matière noire, (2) l’expansion cosmique sans constante cosmologique, et (3) l’atténuation des ondes gravitationnelles dans les zones de condensation temporelle.
 
+- la version 4 du Lagrangien du modèle VLCC intégrant la dynamique du champ temporel intriqué, unifiant l’expansion cosmique et la mémoire inertielle du temps matière.
+
 ## Auteurs
 Frédérick Vronsky
 
@@ -22,6 +24,9 @@ https://doi.org/10.5281/zenodo.16332515
 
 ## DOI associé v.3 :
 https://doi.org/10.5281/zenodo.16420822
+
+## DOI associé v.4 :
+https://doi.org/10.5281/zenodo.16752718
 
 ## Licence
 Ce dépôt est publié sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0)
