@@ -13,6 +13,8 @@ Il intègre pour la première fois un **potentiel temporel intriqué**, modélis
 
 - la version 4 du Lagrangien du modèle VLCC intégrant la dynamique du champ temporel intriqué, unifiant l’expansion cosmique et la mémoire inertielle du temps matière.
 
+- la version 5 intégrant les dernière mises à jour ainsi que les deux lois spéculatives de pulsation cosmique (LPHD et LCFT)
+
 ## Auteurs
 Frédérick Vronsky
 
@@ -27,6 +29,9 @@ https://doi.org/10.5281/zenodo.16420822
 
 ## DOI associé v.4 :
 https://doi.org/10.5281/zenodo.16752718
+
+## DOI associé v.5 :
+https://doi.org/10.5281/zenodo.17361764
 
 ## Licence
 Ce dépôt est publié sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0)
@@ -47,6 +52,10 @@ It incorporates for the first time an **entangled time potential**, modeling tim
 
 - version 3 of the special section dedicated to the Lagrangian of the VLCC speculative cosmological model, which proposes a dynamic re-establishment of the time field through the introduction of the scalar field and three main predictions arising from this formalism: (1) the rotation of galaxies without dark matter, (2) cosmic expansion without cosmological constant, and (3) the attenuation of gravitational waves in time condensation zones.
 
+- version 4 of the Lagrangian of the VLCC model integrating the dynamics of the entangled time field, unifying cosmic expansion and the inertial memory of matter time.
+
+- version 5 integrating the latest updates as well as the two speculative laws of cosmic pulsation (LPHD and LCFT)
+
 ## Author
 Frédérick Vronsky
 
@@ -58,6 +67,12 @@ https://doi.org/10.5281/zenodo.16332515
 
 ## DOI associé v.3 :
 https://doi.org/10.5281/zenodo.16420822
+
+## DOI associé v.4 :
+https://doi.org/10.5281/zenodo.16752718
+
+## DOI associé v.5 :
+https://doi.org/10.5281/zenodo.17361764
 
 ## License
 This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0)
