@@ -15,6 +15,8 @@ Il intègre pour la première fois un **potentiel temporel intriqué**, modélis
 
 - la version 5 intégrant les dernière mises à jour ainsi que les deux lois spéculatives de pulsation cosmique (LPHD et LCFT)
 
+- La version 5 traduite en anglais : Special Section VLCC — Differential Photonic Lagrangian v.5: Integration of LPHD and LCFT Laws within a Morphogenic Time Framework
+  
 ## Auteurs
 Frédérick Vronsky
 
@@ -32,6 +34,9 @@ https://doi.org/10.5281/zenodo.16752718
 
 ## DOI associé v.5 :
 https://doi.org/10.5281/zenodo.17361764
+
+## DOI associé v.5 / version anglaise:
+https://doi.org/10.5281/zenodo.17372448
 
 ## Licence
 Ce dépôt est publié sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0)
