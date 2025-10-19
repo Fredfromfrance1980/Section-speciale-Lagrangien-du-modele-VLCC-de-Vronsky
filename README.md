@@ -17,6 +17,8 @@ Il intègre pour la première fois un **potentiel temporel intriqué**, modélis
 
 - La version 5 traduite en anglais : Special Section VLCC — Differential Photonic Lagrangian v.5: Integration of LPHD and LCFT Laws within a Morphogenic Time Framework
   
+- La version 6 : Le Lagrangien V.6 reformule la gravité comme tension interne du temps-matière, unifiant géométrie, thermodynamique et morphogénèse cosmique dans une équivalence étendue testable.
+  
 ## Auteurs
 Frédérick Vronsky
 
@@ -37,6 +39,9 @@ https://doi.org/10.5281/zenodo.17361764
 
 ## DOI associé v.5 / version anglaise:
 https://doi.org/10.5281/zenodo.17372448
+
+## DOI associé v.6 :
+https://doi.org/10.5281/zenodo.17393219
 
 ## Licence
 Ce dépôt est publié sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0)
@@ -60,6 +65,8 @@ It incorporates for the first time an **entangled time potential**, modeling tim
 - version 4 of the Lagrangian of the VLCC model integrating the dynamics of the entangled time field, unifying cosmic expansion and the inertial memory of matter time.
 
 - version 5 integrating the latest updates as well as the two speculative laws of cosmic pulsation (LPHD and LCFT)
+  
+- Version 6: The Lagrangian V.6 reformulates gravity as an internal tension of time-matter, unifying geometry, thermodynamics, and cosmic morphogenesis in a testable extended equivalence.
 
 ## Author
 Frédérick Vronsky
@@ -78,6 +85,9 @@ https://doi.org/10.5281/zenodo.16752718
 
 ## DOI associé v.5 :
 https://doi.org/10.5281/zenodo.17361764
+
+## DOI associé v.6 :
+https://doi.org/10.5281/zenodo.17393219
 
 ## License
 This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0)
