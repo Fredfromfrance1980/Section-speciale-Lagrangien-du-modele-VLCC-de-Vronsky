@@ -20,7 +20,9 @@ Il intègre pour la première fois un **potentiel temporel intriqué**, modélis
 - La version 6 : Le Lagrangien V.6 reformule la gravité comme tension interne du temps-matière, unifiant géométrie, thermodynamique et morphogénèse cosmique dans une équivalence étendue testable.
 
 -  La version 7 : Le Lagrangien V.7 étend l’équivalence étendue du VLCC en intégrant les lois LPHD, LCFT et LRTG dans une action unifiée où la gravité devient un état thermodynamique du temps.
-  
+
+-  La version 8 : Le Lagrangien V.8 élargit et unifie la structure morphogénique du VLCC en intégrant explicitement l’asymétrie temporelle Δt, le couplage σ²R et la Loi de Relativité Quantique du Temps (LRQT), établissant la gravité, la dynamique quantique et l’évolution cosmologique comme des manifestations émergentes de la morphogénèse interne du temps.
+-  
 ## Auteurs
 Frédérick Vronsky
 
@@ -47,6 +49,9 @@ https://doi.org/10.5281/zenodo.17393219
 
 ## DOI associé v.7 :
 https://doi.org/10.5281/zenodo.17567044
+
+## DOI associé v.8 :
+https://doi.org/10.5281/zenodo.17619299
 
 ## Licence
 Ce dépôt est publié sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0)
@@ -75,6 +80,8 @@ It incorporates for the first time an **entangled time potential**, modeling tim
 
 - Version 7: The Lagrangian V.7 extends the extended equivalence of the VLCC by integrating the LPHD, LCFT, and LRTG laws into a unified action where gravity becomes a thermodynamic state of time
 
+- Version 8: The Lagrangian V.8 expands and unifies the morphogenic structure of the VLCC by explicitly integrating the temporal asymmetry Δt, the coupling σ²R and the Law of Quantum Relativity of Time (LRQT), establishing gravity, quantum dynamics and cosmological evolution as emergent manifestations of the internal morphogenesis of time.
+
 ## Author
 Frédérick Vronsky
 
@@ -98,6 +105,10 @@ https://doi.org/10.5281/zenodo.17393219
 
 ## DOI associé v.7 :
 https://doi.org/10.5281/zenodo.17567044
+
+## DOI associé v.8 :
+https://doi.org/10.5281/zenodo.17619299
+
 
 ## License
 This repository is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0)
