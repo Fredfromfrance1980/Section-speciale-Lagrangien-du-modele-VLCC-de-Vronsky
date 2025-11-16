@@ -21,7 +21,7 @@ Il intègre pour la première fois un **potentiel temporel intriqué**, modélis
 
 -  La version 7 : Le Lagrangien V.7 étend l’équivalence étendue du VLCC en intégrant les lois LPHD, LCFT et LRTG dans une action unifiée où la gravité devient un état thermodynamique du temps.
 
--  La version 8 : Le Lagrangien V.8 élargit et unifie la structure morphogénique du VLCC en intégrant explicitement l’asymétrie temporelle Δt, le couplage σ²R et la Loi de Relativité Quantique du Temps (LRQT), établissant la gravité, la dynamique quantique et l’évolution cosmologique comme des manifestations émergentes de la morphogénèse interne du temps.
+-  La version 8 (en version Française et Anglaise): Le Lagrangien V.8 élargit et unifie la structure morphogénique du VLCC en intégrant explicitement l’asymétrie temporelle Δt, le couplage σ²R et la Loi de Relativité Quantique du Temps (LRQT), établissant la gravité, la dynamique quantique et l’évolution cosmologique comme des manifestations émergentes de la morphogénèse interne du temps.
 -  
 ## Auteurs
 Frédérick Vronsky
@@ -107,7 +107,7 @@ https://doi.org/10.5281/zenodo.17393219
 https://doi.org/10.5281/zenodo.17567044
 
 ## DOI associé v.8 :
-https://doi.org/10.5281/zenodo.17619299
+https://doi.org/10.5281/zenodo.17621202
 
 
 ## License
