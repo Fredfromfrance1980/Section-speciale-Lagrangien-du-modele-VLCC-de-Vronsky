@@ -1,9 +1,16 @@
-# Section-speciale-Lagrangien-du-modele-VLCC-de-Vronsky
-Ce document special definit le Lagrangien et l'action du modele VLCC. Base sur une structure photonique a temps differentiel, il presente les equations completes et des hypotheses variationnelles pour expliquer la dynamique cosmique et approfondir les fondations mathematiques du modele.
+# Section spéciale — Lagrangiens du modèle VLCC (Vronsky)
+
+Ce dépôt rassemble les formulations lagrangiennes successives du modèle VLCC (Variable Lagrangian of Cosmic Chronotropy), avec un accent particulier sur la version canonique stabilisée V9.  
+Il constitue le socle mathématique formel du cadre VLCC, complémentaire du *Traité VLCC – Édition canonique*, qui en développe les fondements ontologiques, cosmologiques et interprétatifs.
+
+La section spéciale présente la formulation variationnelle complète du champ temporel chronotropique, incluant la tri-phase temporelle {τ, σ, Δt}, le triplet fonctionnel (t₁, t₂, t₁′), les lois morphogéniques associées, ainsi que les contraintes de cohérence introduites pour assurer la stabilité dynamique du modèle. La gravité y apparaît comme un effet morphogénique émergent, gouverné par le gradient spatial de la dérivée seconde temporelle effective du présent intriqué.
+
+Les différentes versions lagrangiennes (V6 à V9) documentent l’évolution formelle du modèle, depuis les premières hypothèses variationnelles jusqu’à la formulation canonique stabilisée. Les constantes morphogéniques sont explicitement identifiées, leur chiffrage n’étant pas fixé *a priori* et étant destiné à être contraint par l’observation.
+
+Ce dépôt a pour vocation de fournir un outil mathématique cohérent, unifié et extensible, destiné à servir de base aux analyses cosmologiques, astrophysiques et numériques du cadre VLCC.
 
 Ce dépôt contient :
 - le document intégral dans sa version 1, consacré à la formulation du Lagrangien du modèle cosmologique spéculatif VLCC
-
 Le travail inclut des démonstrations mathématiques rigoureuses, l'expression complète de l'action, ainsi que des hypothèses de variation applicables dans différentes régions cosmologiques. Cette section vise à offrir une base mathématique claire à un modèle dans lequel le temps est une forme de matière photoniquement inactive.
 
 - la version 2 de la section spéciale dédiée au Lagrangien du modèle cosmologique spéculatif VLCC (Variable Lagrangian of Cosmic Chronotropy).  
@@ -22,7 +29,12 @@ Il intègre pour la première fois un **potentiel temporel intriqué**, modélis
 -  La version 7 : Le Lagrangien V.7 étend l’équivalence étendue du VLCC en intégrant les lois LPHD, LCFT et LRTG dans une action unifiée où la gravité devient un état thermodynamique du temps.
 
 -  La version 8 (en version Française et Anglaise): Le Lagrangien V.8 élargit et unifie la structure morphogénique du VLCC en intégrant explicitement l’asymétrie temporelle Δt, le couplage σ²R et la Loi de Relativité Quantique du Temps (LRQT), établissant la gravité, la dynamique quantique et l’évolution cosmologique comme des manifestations émergentes de la morphogénèse interne du temps.
--  
+
+  -  La version 9 (en version Française et Anglaise): Le Lagrangien V9 constitue la formulation canonique et stabilisée du modèle VLCC.
+Il formalise le champ temporel chronotropique à travers une structure variationnelle unifiée.
+La gravité y apparaît comme un effet morphogénique émergent lié à la dynamique du présent intriqué.
+Le Lagrangien V9 fournit le socle mathématique de référence pour les analyses cosmologiques du VLCC.
+  
 ## Auteurs
 Frédérick Vronsky
 
@@ -53,6 +65,9 @@ https://doi.org/10.5281/zenodo.17567044
 ## DOI associé v.8 :
 https://doi.org/10.5281/zenodo.17619299
 
+## DOI associé v.9 :
+https://doi.org/10.5281/zenodo.17976677
+
 ## Licence
 Ce dépôt est publié sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0)
 
@@ -82,6 +97,11 @@ It incorporates for the first time an **entangled time potential**, modeling tim
 
 - Version 8: The Lagrangian V.8 expands and unifies the morphogenic structure of the VLCC by explicitly integrating the temporal asymmetry Δt, the coupling σ²R and the Law of Quantum Relativity of Time (LRQT), establishing gravity, quantum dynamics and cosmological evolution as emergent manifestations of the internal morphogenesis of time.
 
+- Version 9: The V9 Lagrangian constitutes the canonical and stabilized formulation of the VLCC model.
+It formalizes the chronotropic temporal field within a unified variational framework.
+Within this formulation, gravity emerges as a morphogenetic effect linked to the dynamics of the entangled present.
+The V9 Lagrangian provides the mathematical reference foundation for VLCC cosmological analyses.
+
 ## Author
 Frédérick Vronsky
 
@@ -108,6 +128,9 @@ https://doi.org/10.5281/zenodo.17567044
 
 ## DOI associé v.8 :
 https://doi.org/10.5281/zenodo.17621202
+
+## DOI associé v.9 :
+https://doi.org/10.5281/zenodo.17977339
 
 
 ## License
