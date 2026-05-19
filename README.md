@@ -34,6 +34,8 @@ Il intègre pour la première fois un **potentiel temporel intriqué**, modélis
 Il formalise le champ temporel chronotropique à travers une structure variationnelle unifiée.
 La gravité y apparaît comme un effet morphogénique émergent lié à la dynamique du présent intriqué.
 Le Lagrangien V9 fournit le socle mathématique de référence pour les analyses cosmologiques du VLCC.
+
+-  La version 10 (en version Française et Anglaise) : Le Lagrangien v10 propose un cadre cosmologique variationnel fondé sur des attracteurs morphogéniques continus, un champ tri-phasé et une dynamique cohérentielle ouverte. Ce travail introduit la stabilisation opératoire du VLCC, son lagrangien variationnel et son architecture attractorielle continue.
   
 ## Auteurs
 Frédérick Vronsky
@@ -67,6 +69,9 @@ https://doi.org/10.5281/zenodo.17619299
 
 ## DOI associé v.9 :
 https://doi.org/10.5281/zenodo.17976677
+
+## DOI associé v.10 :
+https://doi.org/10.5281/zenodo.20277440
 
 ## Licence
 Ce dépôt est publié sous la licence Creative Commons Attribution 4.0 International (CC BY 4.0)
@@ -102,6 +107,8 @@ It formalizes the chronotropic temporal field within a unified variational frame
 Within this formulation, gravity emerges as a morphogenetic effect linked to the dynamics of the entangled present.
 The V9 Lagrangian provides the mathematical reference foundation for VLCC cosmological analyses.
 
+- Version 10 (in French and English): The Lagrangian v10 proposes a variational cosmological framework based on continuous morphogenic attractors, a three-phase field, and open coherent dynamics. This work introduces the operational stabilization of the VLCC, its variational Lagrangian, and its continuous attractor architecture.
+
 ## Author
 Frédérick Vronsky
 
@@ -132,6 +139,8 @@ https://doi.org/10.5281/zenodo.17621202
 ## DOI associé v.9 :
 https://doi.org/10.5281/zenodo.17978102
 
+## DOI associé v.10 :
+https://doi.org/10.5281/zenodo.20277678
 
 ## License
 This repository is licensed under the Creative Commons BY-NC-SA 4.0 International
